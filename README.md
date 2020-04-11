@@ -12,7 +12,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
-## Acceptance Criteria
+## How to Use the App
 
 When the user loads the page, they are given the option to create a new workout, or continue with their last workout.
 
