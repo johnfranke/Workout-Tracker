@@ -41,6 +41,7 @@ header {
   padding-top: 75px;
   text-align: center;
   font-size: 2rem;
+  color: rgb(192, 192, 192);
 }
 
 select {
@@ -95,7 +96,7 @@ input {
 }
 
 .wrapper {
-  background-color: #809ec0;
+  background-color: #3b4857;
   padding-bottom: 100px;
 }
 
