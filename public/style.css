@@ -15,12 +15,9 @@ body,
 }
 
 body {
-  background: linear-gradient(
-    to bottom,
-    transparent, 
-    rgb(66, 167, 162)
-  );
+  background: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 100%;
 }
 
 h1 {
@@ -116,7 +113,6 @@ input {
     transparent, 
     rgb(66, 167, 162)
   );
-  padding-bottom: 100px;
 }
 
 .card.m-auto,
