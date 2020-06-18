@@ -6,7 +6,7 @@ Deployed Application Link: https://sleepy-hamlet-50056.herokuapp.com/
 
 ## Preview
 
-![Image Preview](preview.png)
+![Image Preview](preview-workout.png)
 
 ## User Story
 
